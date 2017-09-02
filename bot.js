@@ -11,7 +11,7 @@ This is a sample Slack bot built with Botkit.
 
   Botkit has many features for building cool and useful bots!
 
-  Read all about it here:
+  Read all about it here: 
 
     -> http://howdy.ai/botkit
 
